@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="geova"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-10 12:25:09 "/>
+        <attribute name="created" value="Z2VvdmE7TElTOzIwMjItMDEtMDM7IjA4OjIyOjU5ICI7MTk1Mw=="/>
+        <attribute name="edited" value="Z2VvdmE7TElTOzIwMjItMDEtMTA7IjEyOjI1OjA5ICI7MzsyMDU0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Janeiro, Fevereiro, Mar&#231;o, Abril, Media" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual foi o lucro de Janeiro?&quot;" newline="True"/>
+            <input variable="Janeiro"/>
+            <output expression="&quot;Qual foi o lucro de Fevereiro?&quot;" newline="True"/>
+            <input variable="Fevereiro"/>
+            <output expression="&quot;Qual foi o lucro de Mar&#231;o?&quot;" newline="True"/>
+            <input variable="Mar&#231;o"/>
+            <output expression="&quot;Qual foi o lucro de Abril?&quot;" newline="True"/>
+            <input variable="Abril"/>
+            <assign variable="Media" expression="(Janeiro+Fevereiro+Mar&#231;o+Abril)/4"/>
+            <output expression="&quot;A m&#233;dia desses meses foi R$ &quot; &amp; Media &amp; &quot;, logo...&quot;" newline="True"/>
+            <if expression="Media &gt;= 5000">
+                <then>
+                    <output expression="&quot;Voc&#234; receber&#225; um abono de 10%.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; receber&#225; um abono de 3%.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

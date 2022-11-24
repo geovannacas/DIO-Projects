@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="geova"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-03 09:07:49 "/>
+        <attribute name="created" value="Z2VvdmE7TElTOzIwMjItMDEtMDM7IjA5OjAwOjIyICI7MTk0MA=="/>
+        <attribute name="edited" value="Z2VvdmE7TElTOzIwMjItMDEtMDM7IjA5OjA3OjQ5ICI7MTsyMDY0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="nota1, nota2, nota3, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual &#233; o seu nome?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual sua nota 1?&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <output expression="&quot;Qual a sua nota 2?&quot;" newline="True"/>
+            <input variable="nota2"/>
+            <output expression="&quot;Qual a sua nota 3?&quot;" newline="True"/>
+            <input variable="nota3"/>
+            <assign variable="media" expression="(nota1+nota2+nota3)/3"/>
+            <output expression="&quot;Nome: &quot; &amp; nome &amp; &#13;&#10;&quot; M&#233;dia Escolar: &quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
