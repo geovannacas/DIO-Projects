@@ -1,0 +1,15 @@
+C:\workspace\Localiza.Series\bin\Debug\net6.0\Localiza.Series.exe
+C:\workspace\Localiza.Series\bin\Debug\net6.0\Localiza.Series.deps.json
+C:\workspace\Localiza.Series\bin\Debug\net6.0\Localiza.Series.runtimeconfig.json
+C:\workspace\Localiza.Series\bin\Debug\net6.0\Localiza.Series.dll
+C:\workspace\Localiza.Series\bin\Debug\net6.0\ref\Localiza.Series.dll
+C:\workspace\Localiza.Series\bin\Debug\net6.0\Localiza.Series.pdb
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.csproj.AssemblyReference.cache
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.AssemblyInfoInputs.cache
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.AssemblyInfo.cs
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.csproj.CoreCompileInputs.cache
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.dll
+C:\workspace\Localiza.Series\obj\Debug\net6.0\ref\Localiza.Series.dll
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.pdb
+C:\workspace\Localiza.Series\obj\Debug\net6.0\Localiza.Series.genruntimeconfig.cache
